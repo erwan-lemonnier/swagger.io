@@ -216,6 +216,7 @@ Name | Description
 [bottle-swagger](https://github.com/ampedandwired/bottle-swagger) | Swagger integration for the Bottle web framework
 [prance](https://github.com/jfinkhaeuser/prance) | Swagger parser that resolves JSON references.
 [spec-synthase](https://github.com/MicroarrayTecnologia/spec-synthase) | Spec-Synthase is a tool to help deal with big swagger 2.0 files, by building the swagger specification file from small yaml files.
+[klue-microservice](https://github.com/erwan-lemonnier/klue-microservice) | Swagger-based REST api framework including a deploy pipeline to AWS and database serialization on DynamoDB.
 
 #### Ruby
 
